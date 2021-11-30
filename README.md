@@ -1,7 +1,7 @@
-# Mail2Mail
-Get notified via email when your mail or packages arrive<br/>
-- Implemented using HTML, CSS, PHP, and JavaScript
-- Utilized PHPMailer (public repository) for email features
+# Countdown to end of day
+Simple JavaScript example that displays the amount of time left until the start of the next day<br/>
+- Implemented using built-in Date and setInterval functions
+- Demonstrates knowledge of plain vanilla JavaScript
 
 ```javascript
 // The end of the current day in UTC format, includes the day of month, etc
